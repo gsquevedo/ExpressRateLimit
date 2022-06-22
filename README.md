@@ -1,7 +1,7 @@
 # ExpressRateLimit
 Objetivo: Aprender a limitar chamadas de API em um software.
 
-## Tecnologia
+## Tecnologias:
 - Nodejs
 - JavaScript
 ## Biblioteca
